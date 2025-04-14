@@ -13,8 +13,10 @@ export default function Header() {
                 <a href="#" className="text-[32px] hover:text-(--yellowDecor) transition-colors duration-500">Find Jobs</a>
                 <a href="#" className="text-[32px] hover:text-(--yellowDecor) transition-colors duration-500">Requests</a>
             </div>
-            
-            <a href="#" className="text-[32px] hover:mt-[5px] hover:border-b-5 hover:border-[#8FFD01] w-[132px] text-center transition-colors duration-1000">Profile</a>
+
+            <div>
+                <a href="#" className="text-[32px] hover:mt-[5px] hover:border-b-5 hover:border-[#8FFD01] w-[132px] text-center transition-colors duration-1000">Profile</a>
+            </div>
         </header>
     );
 }
