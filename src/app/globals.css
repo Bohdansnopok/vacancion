@@ -7,7 +7,7 @@
 }
 
 body {
-  background: linear-gradient(#2C3930 49%, #2C3930 0%, #8FFD01 100%, #8FFD01 50%, orange 100%);
+  background: linear-gradient(#1E1E1E 49%, #1E1E1E 0%, #8FFD01 100%, #8FFD01 50%, orange 50%, rgb(255, 166, 0) 50%);
   height: 100vh;
 }
 
